@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ojorajedidiah
 - 👀 I’m interested in programming and solutions development
-- 🌱 I’m currently learning open source languages 
+- 🌱 I’m currently learning new technologies mostly open source languages 
 - 💞️ I’m looking to collaborate on Blockchain, Machine Learning and AI
 - 📫 How to reach me via my email ojorajedidiah@gmail.com or check my linkedIn https://linkedin.com/in/adeleke-ojora-3105ab9
 
